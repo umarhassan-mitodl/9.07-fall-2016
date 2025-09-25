@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "af7930b0-e77c-3a9f-7c00-07b58f966501",
+  "instructors": {
+    "content": [
+      "efb26b85-a4bb-3d63-ed2c-f8dde94c9e2c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c3753145-cf29-6381-ccd5-de77976b8225",
+    "website": "9-07-statistics-for-brain-and-cognitive-science-fall-2016"
+  },
+  "course_title": "Statistics for Brain and Cognitive Science",
+  "course_description": "Provides students with the basic tools for analyzing experimental data, properly interpreting statistical reports in the literature, and reasoning under uncertain situations. Topics organized around three key theories: Probability, statistical, and the linear model. Probability theory covers axioms of probability, discrete and continuous probability models, law of large numbers, and the Central Limit Theorem. Statistical theory covers estimation, likelihood theory, Bayesian methods, bootstrap and other Monte Carlo methods, as well as hypothesis testing, confidence intervals, elementary design of experiments principles and goodness-of-fit. The linear model theory covers the simple regression model and the analysis of variance. Places equal emphasis on theory, data analyses, and simulation studies.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.07",
+  "course_image_thumbnail": {
+    "content": "6deb28b2-639b-f13b-d411-181ecac509a4",
+    "website": "9-07-statistics-for-brain-and-cognitive-science-fall-2016"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "4f02223d-ba20-4c64-a945-483c99e4f1d8",
+  "site_short_id": "9.07-fall-2016",
+  "site_url_path": "courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016",
+  "title": "Course Metadata"
+}
