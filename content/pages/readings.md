@@ -22,7 +22,7 @@ Rice, John A. _Mathematical Statistics and Data Analysis_. 3rd ed. Duxbury Press
 
 Rosner, Bernard. _Fundamentals of Biostatistics_. 6th ed. Duxbury Press, 2005. ISBN: 9780534418205.
 
-Pawitan, Yudi. _In All Likelihood: Statistical Modeling and Inference Using Likelihood_. Oxford University Press, 2013. ISBN: 9780199671229. \[Preview with {{% resource_link "f84cf420-e8a2-4adf-82dc-e18be45d28b5" "Google Books" %}}\]
+Pawitan, Yudi. _In All Likelihood: Statistical Modeling and Inference Using Likelihood_. Oxford University Press, 2013. ISBN: 9780199671229. \[Preview with [Google Books](http://books.google.com/books?id=8T8fAQAAQBAJ&pg=PAfrontcover)\]
 
 Wallisch, Pascal, Michael E. Lusignan, et al. _MATLAB{{< sup "®" >}} for Neuroscientists: An Introduction to Scientific Computing in MATLAB_. Academic Press, 2008. ISBN: 9780123745514. (eBook ISBN: 9780080923284)
 
