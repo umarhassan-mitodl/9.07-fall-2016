@@ -5,6 +5,8 @@ description: This file contains information regarding axioms of probability theo
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/c253650367960f524be6611392e79c53_MIT9_07F16_lec1.pdf
 file_size: 322377
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

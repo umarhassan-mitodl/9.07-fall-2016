@@ -4,6 +4,8 @@ description: This resource contains information regarding recap on counting meth
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/492f8f44b3121bb0b7178ee03c1bc98c_MIT9_07F16_RecapCounting.pdf
 file_size: 2222784
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

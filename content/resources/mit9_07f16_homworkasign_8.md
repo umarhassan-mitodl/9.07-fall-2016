@@ -4,6 +4,8 @@ description: This file contains information regarding homework assignment 8.
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/d576d878907d96aa2ebe3e937243fb10_MIT9_07F16_HomworkAsign_8.pdf
 file_size: 831445
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains PDFs of all lecture notes and corresponding figures,
   addendums and figure notes for select lectures.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

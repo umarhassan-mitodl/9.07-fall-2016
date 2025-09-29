@@ -4,6 +4,8 @@ description: This file contains information regarding Gaussian_tables.
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/716997572843d3199790739819935290_MIT9_07F16_Gaussian_tables.pdf
 file_size: 760009
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

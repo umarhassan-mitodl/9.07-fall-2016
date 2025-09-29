@@ -4,6 +4,8 @@ description: MATLAB tutorial for 9.07
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/096f9956d1ebdbc0a486b8c57dcf9a8c_MIT9_07F16_matlab_tutorial.pdf
 file_size: 469688
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

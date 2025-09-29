@@ -5,6 +5,8 @@ description: Addendum to lecture7 discussing confidence intervals by Emery Brown
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/7289220fec62add0583f92981cd43048_MIT9_07F16_lec7_addendum.pdf
 file_size: 203593
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

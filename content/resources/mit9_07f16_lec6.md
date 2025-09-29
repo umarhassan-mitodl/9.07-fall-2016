@@ -5,6 +5,8 @@ description: This file contains information regarding expectations, Variances, C
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/f86b869a24142183dd21ea4419e9588a_MIT9_07F16_lec6.pdf
 file_size: 2159221
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

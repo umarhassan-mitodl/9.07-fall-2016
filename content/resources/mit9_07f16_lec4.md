@@ -4,6 +4,8 @@ description: This file contains information regarding transformations of random 
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/ce07ae2edebe9d94a1abe3ad54d591f9_MIT9_07F16_lec4.pdf
 file_size: 1823434
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

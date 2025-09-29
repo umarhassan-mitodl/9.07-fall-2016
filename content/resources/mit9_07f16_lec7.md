@@ -5,6 +5,8 @@ description: This file contains information regarding the law of large numbers a
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/42505b2c837e6182a408650e242d9830_MIT9_07F16_lec7.pdf
 file_size: 518046
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

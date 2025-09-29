@@ -6,6 +6,8 @@ description: This file contains information regarding statistics for brain and c
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/465d9b59c4a6e31593abac4c5dcd63ca_MIT9_07F16_lec5.pdf
 file_size: 1771340
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
